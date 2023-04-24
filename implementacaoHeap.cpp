@@ -1,3 +1,4 @@
+
 #include <climits>
 #include <cstdio>
 #include <string>
@@ -78,10 +79,7 @@ int main(void) {
 
   return 0;
 }
-
-//*************
 //* IMPLEMENTAÇÕES DA CLASSE HEAP *
-//*************
 
 Heap::Heap() {}
 
